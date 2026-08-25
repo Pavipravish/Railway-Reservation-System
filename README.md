@@ -1,7 +1,7 @@
 # Railway-Reservation-System
 
-# Reg No: 212225230013
-# Name: D.Amirdavarshini
+# Reg No: 212224040249
+# Name: pravish J
 # Date: 24.08.26
 
 
